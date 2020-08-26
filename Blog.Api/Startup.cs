@@ -60,6 +60,7 @@ namespace Blog.Api
             services.AddAutoMapper(typeof(EfGetOneUserQuery).Assembly);
             services.AddAutoMapper(typeof(EfUpdateUserCommand).Assembly);
             services.AddAutoMapper(typeof(EfCreatePostCommand).Assembly);
+            services.AddAutoMapper(typeof(EfGetOneCommentQuery).Assembly);
 
             services.AddAutoMapper(typeof(EfGetUseCaseLogsQuery).Assembly);
             services.AddAutoMapper(typeof(EfCreateCategoryCommand).Assembly);

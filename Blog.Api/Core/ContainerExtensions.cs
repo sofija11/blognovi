@@ -63,6 +63,7 @@ namespace Blog.Api.Core
             services.AddTransient<IGetOneCategoryQuery, EfGetOneCategoryQuery>();
             services.AddTransient<IGetCommentsQuery, EfGetCommentsQuery>();
             services.AddTransient<IGetPostsQuery, EfGetPostsQuery>();
+            services.AddTransient<IGetOneCommentQuery, EfGetOneCommentQuery>();
 
 
 
