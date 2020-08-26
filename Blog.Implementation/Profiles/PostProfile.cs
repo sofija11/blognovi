@@ -13,6 +13,9 @@ namespace Blog.Implementation.Profiles
         {
             CreateMap<Post, PostDto>();
             CreateMap<PostDto, Post>();
+
+            CreateMap<Post, OnePostDto>();
+            CreateMap<OnePostDto, Post>();
         }
     }
 }
