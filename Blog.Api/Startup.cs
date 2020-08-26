@@ -62,6 +62,7 @@ namespace Blog.Api
             services.AddAutoMapper(typeof(EfCreatePostCommand).Assembly);
             services.AddAutoMapper(typeof(EfGetOneCommentQuery).Assembly);
             services.AddAutoMapper(typeof(EfGetOnePostQuery).Assembly);
+            services.AddAutoMapper(typeof(EfUpdateCommentCommand).Assembly);
 
 
             services.AddAutoMapper(typeof(EfGetUseCaseLogsQuery).Assembly);

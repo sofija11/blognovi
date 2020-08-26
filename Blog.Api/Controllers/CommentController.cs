@@ -48,8 +48,11 @@ namespace Blog.Api.Controllers
 
         // PUT api/<CommentController>/5
         [HttpPut("{id}")]
-        public void Put(int id, [FromBody] string value)
+        public IActionResult Put(int id, [FromBody] CommentDto dto, [FromServices] IUpdateCommentCommand command)
         {
+            dto.Id = id;
+            executor.ExecuteCommand(command, dto);
+            return StatusCode(StatusCodes.Status204NoContent);
         }
 
         // DELETE api/<CommentController>/5
