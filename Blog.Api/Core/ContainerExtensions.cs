@@ -55,6 +55,7 @@ namespace Blog.Api.Core
             services.AddTransient<IDeleteCommentCommand, EfDeleteCommentCommand>();
             services.AddTransient<IDeletePostCommand, EfDeletePostCommand>();
             services.AddTransient<IUpdateCommentCommand, EfUpdateCommentCommand>();
+            services.AddTransient<IUpdatePostCommand, EfUpdatePostCommand>();
             ///querii
             ///
             services.AddTransient<IGetUsersQuery, EfGetUsersQuery>();
