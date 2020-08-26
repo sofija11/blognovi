@@ -1,0 +1,14 @@
+C:\Users\Sofija\source\repos\BlogSad\Blog.Application\bin\Debug\netcoreapp3.1\Blog.Application.deps.json
+C:\Users\Sofija\source\repos\BlogSad\Blog.Application\bin\Debug\netcoreapp3.1\Blog.Application.dll
+C:\Users\Sofija\source\repos\BlogSad\Blog.Application\bin\Debug\netcoreapp3.1\Blog.Application.pdb
+C:\Users\Sofija\source\repos\BlogSad\Blog.Application\bin\Debug\netcoreapp3.1\Blog.Domain.dll
+C:\Users\Sofija\source\repos\BlogSad\Blog.Application\bin\Debug\netcoreapp3.1\Blog.Domain.pdb
+C:\Users\Sofija\source\repos\BlogSad\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.csprojAssemblyReference.cache
+C:\Users\Sofija\source\repos\BlogSad\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.AssemblyInfoInputs.cache
+C:\Users\Sofija\source\repos\BlogSad\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.AssemblyInfo.cs
+C:\Users\Sofija\source\repos\BlogSad\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.csproj.CopyComplete
+C:\Users\Sofija\source\repos\BlogSad\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.dll
+C:\Users\Sofija\source\repos\BlogSad\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.pdb
+C:\Users\Sofija\source\repos\BlogSad\Blog.Application\obj\Debug\netcoreapp3.1\Blog.Application.csproj.CoreCompileInputs.cache
+C:\Users\Sofija\source\repos\BlogSad\Blog.Application\bin\Debug\netcoreapp3.1\Blog.DataAccess.dll
+C:\Users\Sofija\source\repos\BlogSad\Blog.Application\bin\Debug\netcoreapp3.1\Blog.DataAccess.pdb
